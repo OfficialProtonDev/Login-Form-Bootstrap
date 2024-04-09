@@ -12,3 +12,13 @@
     position: relative;
     margin-bottom: 0;
 }
+
+.form-floating .form-control#floatingPassword {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.form-floating .form-control#floatingInput {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
